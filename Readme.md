@@ -1,6 +1,6 @@
 ## search_alien
 
-its a web app created using fuse js to showcase how easy it is to implement fuzzy search in your react web app.
+This web app created using fuse js to showcase how easy it is to implement fuzzy search in your react web app.
 
 > used formkits auto-animate library for animations
 
